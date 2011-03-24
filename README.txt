@@ -11,6 +11,8 @@ SMITH'S EDITS TO README
  * Cool!
  * Even More Cool!
 
+This code contains a slideshow now!
+
 CONTENTS OF THIS FILE
 ---------------------
 
