@@ -3,12 +3,15 @@
 SHAWN'S EDITS TO README
 -----------------------
 
+ * Cool!
+
 SMITH'S EDITS TO README
 -----------------------
 
  * Cool!
+ * Even More Cool!
 
- * Not so Cool!
+This code contains a slideshow now!
 
 CONTENTS OF THIS FILE
 ---------------------
