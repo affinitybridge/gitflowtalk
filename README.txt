@@ -3,6 +3,8 @@
 SHAWN'S EDITS TO README
 -----------------------
 
+ * Cool!
+
 SMITH'S EDITS TO README
 -----------------------
 
