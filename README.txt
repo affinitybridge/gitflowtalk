@@ -8,8 +8,6 @@ SMITH'S EDITS TO README
 
  * Cool!
 
- * Not so Cool!
-
 CONTENTS OF THIS FILE
 ---------------------
 
