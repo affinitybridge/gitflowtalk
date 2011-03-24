@@ -7,6 +7,7 @@ SMITH'S EDITS TO README
 -----------------------
 
  * Cool!
+ * Even More Cool!
 
 CONTENTS OF THIS FILE
 ---------------------
